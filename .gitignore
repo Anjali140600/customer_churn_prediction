@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Data and model files
+*.pkl
+*.h5
+*.csv
+
+# Streamlit cache
+.streamlit/
